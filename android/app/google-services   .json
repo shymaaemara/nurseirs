@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930349383780",
+    "firebase_url": "https://nurseries-234c4-default-rtdb.firebaseio.com",
+    "project_id": "nurseries-234c4",
+    "storage_bucket": "nurseries-234c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930349383780:android:e20f932aeb16a5c3bb9f71",
+        "android_client_info": {
+          "package_name": "com.example.nurseries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930349383780-q6mdjop11vdo69hj28p25431mid2d4vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHXARIYvJ_I-t_AjwLB7ebwDL7zJP9KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930349383780-q6mdjop11vdo69hj28p25431mid2d4vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
